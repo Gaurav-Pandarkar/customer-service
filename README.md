@@ -1,4 +1,5 @@
 Discount Rules in Customer Service:
+
 Young Customer Discount
 The Calculate Young Customer Discount rule calculates a discount of 10% for customers under the age of 30.
 
